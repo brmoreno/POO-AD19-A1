@@ -18,8 +18,8 @@
 | 13 | 20/09/19 | Práctica 3 / Concepto inicial proyecto 2               |
 | 14 | 24/09/19 | Mapas de Bits                                          |
 | 15 | 27/09/19 | Práctica 4 / Límite cambios Proyecto 2                 |
-| 16 | 01/10/19 | Recursividad / Entrega Proyecto 2                      |
-| 17 | 04/10/19 | postmortem Proyecto 2 / OOP avanzado                   |
+| 16 | 01/10/19 | Box 2D                                                 |
+| 17 | 04/10/19 | OOP avanzado /Entrega Proyecto 2                       |
 | 18 | 08/10/19 | OOP avanzado / especificación Proyecto 3               |
 | 19 | 11/10/19 | práctica 5  / Concepto Inicial Proyecto 3              |
 | 20 | 15/10/19 | práctica 6 / Límite cambios proyecto 3                 |
